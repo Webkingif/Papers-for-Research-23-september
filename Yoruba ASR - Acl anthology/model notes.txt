@@ -4,13 +4,25 @@ IWSLT 2026 Findings & Associated Papers (e.g., Aura-ST / African-Celtic Speech T
 
 
 
+
 SIMILAR PAPERS
 
-Charting the Landscape of African NLP: Mapping Progress and Shaping
-the Road Ahead.
+Charting the Landscape of African NLP: Mapping Progress and Shaping the Road Ahead.
 
 Retrieval-Augmented Generation Meets Local Languages for Improved Drug Information Access and Comprehension.  -- they scraped the internet for data. they didn't make the data public. no new model was discovered.
 
 
 
 semantic scholar api  -- can be used to search
+
+
+isca/interspeech
+
+1. Yoruba keyword - 14 results only 4 was useful.
+2. Igbo - 6 results  -- 0 were useful
+3. hausa - 7 results     -- 2
+4. telephone - 466 results -- 2   -- the papers are foreign papers that test telephone readiness
+5 Nigeria 21 results -- 3
+
+
+
